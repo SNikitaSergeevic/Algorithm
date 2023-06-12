@@ -15,3 +15,8 @@ struct AlgorithmCheckApp: App {
         }
     }
 }
+
+/*
+ 
+1. quick sort create view present 
+ */
